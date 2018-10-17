@@ -4,12 +4,12 @@ This README would normally
 
 ### What is this repository for? ###
 
-	Automation testing for the Deloz Application.
+	Automation testing for the CRM Application.
 
 ### How do I get set up? ###
 
 
-—> Initially clone from the Webtest repository using $ git clone https://sai_bharath@bitbucket.org/aviks_deloz/webtest.git.
+—> Initially clone from the Webtest repository using $ git clone https://github.com/saibharath9999/CRM.git
 
 —> Need Python3 for running automation.
 
